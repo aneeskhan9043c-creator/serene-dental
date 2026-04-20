@@ -1,8 +1,3 @@
-# Serene Dental Website - Final Source Code
-
-Here is the complete source code for your newly optimized Serene Dental website. You can easily copy this complete `index.html` into your deployment setup.
-
-```html
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
